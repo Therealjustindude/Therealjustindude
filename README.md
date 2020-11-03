@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a React Redux Application
 - 🌱 I’m currently learning React and Redux
 - 📫 How to reach me: [LinkedIn:] https://www.linkedin.com/in/jusitn-davies-413aa8189/ , [Email:] TheRealJustinDude@gmail.com
-- ⚡ Fun fact: I watch a ton of youtube content in a single day, mostly about self improvement. 
+- ⚡ Fun facts: I watch a ton of self improvement content youtube and I love romatic comedies. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
