@@ -1,9 +1,9 @@
 ### Hello, I'm Justin Davies 👋
 
 - 🔭 I’m currently working on a React Redux Application
-- 🌱 I’m currently learning React and Redux
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: [Website:] https://justin-j-davies.herokuapp.com/ , [LinkedIn:] https://www.linkedin.com/in/jusitn-davies-413aa8189/ , [Email:] TheRealJustinDude@gmail.com
-- ⚡ Fun facts: I watch a ton of self improvement content youtube and I love romatic comedies. 
+- ⚡ Fun facts: I watch a ton of self improvement content on youtube and I like romatic comedies. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
