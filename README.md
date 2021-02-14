@@ -1,8 +1,8 @@
 ### Hello, I'm Justin Davies 👋
 
 - 🔭 Working as a Fellow at Major League Hacking for 12 weeks
-- 🌱 I’m currently learning Swift and React Native
-- 📫 How to reach me: [Website:] https://justin-j-davies.herokuapp.com/ , [LinkedIn:] https://www.linkedin.com/in/jusitn-davies-413aa8189/ , [Email:] TheRealJustinDude@gmail.com
+- 🌱 I’m currently working with React
+- 📫 How to reach me: [Website:] https://justin-j-davies.herokuapp.com/ , [LinkedIn:] https://www.linkedin.com/in/justin-j-davies/ , [Email:] TheRealJustinDude@gmail.com
 - ⚡ Fun facts: I watch a ton of self improvement content on youtube and I like romatic comedies. 
 
 <!--
