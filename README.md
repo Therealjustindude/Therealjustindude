@@ -1,9 +1,9 @@
 ### Hello, I'm Justin Davies 👋
 
-- 🔭 Working as a Associate Software Engineer at Roostify
-- 🌱 I’m currently learning how to use graphQL in a rails/react application
-- 📫 How to reach me: [Website:] https://justin-j-davies.herokuapp.com/ , [LinkedIn:] https://www.linkedin.com/in/justin-j-davies/ , [Email:] TheRealJustinDude@gmail.com
-- ⚡ Fun facts: I watch a ton of self improvement content on youtube and I like romatic comedies. 
+- 🔭 Working as a Software Engineer at Roostify
+- 🌱 I’m currently rebuilding my porfolio site in svelte
+- 📫 How to reach me: [Website:] , [LinkedIn:] https://www.linkedin.com/in/justin-j-davies/ , [Email:] TheRealJustinDude@gmail.com
+- ⚡ Fun facts: I've been playing a lot of Call of Duty and PLaying around with Svelte. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
