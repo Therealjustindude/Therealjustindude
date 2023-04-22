@@ -3,7 +3,7 @@
 - 🔭 Working as a Software Engineer at Roostify
 - 🌱 I’m currently rebuilding my porfolio site in svelte
 - 📫 How to reach me: [Website:] https://justindaviesdev.vercel.app , [LinkedIn:] https://www.linkedin.com/in/justin-j-davies/ , [Email:] TheRealJustinDude@gmail.com
-- ⚡ Fun facts: I've been playing a lot of Call of Duty and PLaying around with Svelte. 
+- ⚡ Fun facts: I've been playing a lot of Call of Duty and tinkering around with Svelte. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
