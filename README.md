@@ -1,7 +1,7 @@
 ### Hello, I'm Justin Davies 👋
 
 - 🔭 Working as a Software Engineer at CoreLogic
-- 🌱 I’m recently rebuilt my porfolio site in svelte
+- 🌱 I recently rebuilt my porfolio site in svelte
 - 📫 How to reach me: [Website:] https://justindaviesdev.vercel.app , [LinkedIn:] https://www.linkedin.com/in/justin-j-davies/ , [Email:] TheRealJustinDude@gmail.com
 - ⚡ Fun facts: I've been playing a lot of Call of Duty and tinkering around with Svelte. 
 
