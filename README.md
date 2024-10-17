@@ -3,7 +3,7 @@
 - 🔭 Working as a Software Engineer at CoreLogic
 - 🌱 I recently rebuilt my porfolio site in svelte
 - 📫 How to reach me: [Website:] https://justindaviesdev.vercel.app , [LinkedIn:] https://www.linkedin.com/in/justin-j-davies/ , [Email:] TheRealJustinDude@gmail.com
-- ⚡ Fun facts: I've been playing a lot of Call of Duty and tinkering around with Svelte. 
+- ⚡ Fun facts: I enjoy golfing and watching tv with my wife. 
 
 <!--
 - 👯 I’m looking to collaborate on ...
